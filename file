@@ -1,0 +1,15 @@
+project-folder/
+│
+├── index.html          # Homepage
+├── booking.html        # Booking page
+├── contact.html        # Contact page
+├── css/
+│   ├── style.css       # Main styles
+│   └── utilities.css   # Utility classes
+├── js/
+│   ├── main.js         # Main JavaScript
+│   ├── booking.js      # Booking page logic
+│   └── chatbot.js      # Chatbot functionality
+└── assets/
+    ├── images/         # All website images
+    └── icons/          # SVG icons
